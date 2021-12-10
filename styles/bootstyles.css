@@ -1,0 +1,52 @@
+h1 {
+    color: lightseagreen;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-image: url("../images/tableaubackground.jpg");
+}
+
+a {
+    color:rgb(104, 100, 100);
+    font-size: 20px;
+    text-align: center;
+}
+
+div {
+    text-align:center;
+    background-color: linen;
+}
+
+.Navigation {
+    position: relative;
+}
+
+.Tableau {
+    position: relative;
+    display: grid;
+    grid-template-columns: auto auto;
+    padding: 12px;
+    text-align: center;
+}
+
+.Footer {
+    position: relative;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px
+}
+
+.Graphs {
+    height:400px;
+    width: 400px;
+    padding: 20px;
+    text-align: center;
+}
+
+p {
+    color: lightseagreen;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+}
